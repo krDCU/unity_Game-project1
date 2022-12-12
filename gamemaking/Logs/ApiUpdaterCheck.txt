@@ -1,0 +1,100 @@
+[api-updater (non-obsolete-error-filter)] 2022-11-14 PM 7:37:36 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1970.5952ms
+moved types parse time: 68ms
+candidates parse time : 2ms
+C# parse time         : 711ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-14 PM 7:46:58 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104.4278ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 180ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-11-30 PM 10:13:43 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 907.9866ms
+moved types parse time: 50ms
+candidates parse time : 2ms
+C# parse time         : 548ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-01 PM 8:10:05 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1475.2581ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 257ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-01 PM 8:10:24 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119.85ms
+moved types parse time: 50ms
+candidates parse time : 2ms
+C# parse time         : 209ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-01 PM 9:05:09 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.0475ms
+moved types parse time: 56ms
+candidates parse time : 2ms
+C# parse time         : 189ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-02 PM 5:10:41 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2187.1359ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 715ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-02 PM 5:11:28 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 211.9847ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 227ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-05 PM 10:47:55 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2423.0656ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 607ms
+candidates check time : 101ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-12-11 PM 8:08:59 : Starting C:/Users/msi/Desktop/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1578.7335ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 641ms
+candidates check time : 39ms
+console write time    : 0ms
+
