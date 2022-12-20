@@ -1,7 +1,22 @@
-# unity_Game-project1
-unity Survival game
+# Unity를 이용한 1인칭 Player 구현과 Player의 움직임 구현
 
-Unity 서바이벌 게임 제작 프로젝트
++ 사용언어 : C#
++ 사용 소프트 웨어 : Unity
++ 제작기한 : 2022.10 ~ ( 기능 추가 중 )
++ 제작인원 :1 명
+------------------------------------------------------------------------
++ 프로젝트 설명 
+    + Unity를 이용해 Player를 제작
+    + Player의 1인칭 화면 구현
+    + Player의 걷기, 뛰기, 앉기, 점프 등을 구현 후 움직임에 따른 플레이어의 1인칭 화면 변화와 애니메이션 구현
+    + Player의 기본적인 손을 이용한 공격과 총을 이용한 공격, 효과음, 파티클 구현
+    + 총을 이용해 사격을 할 때 걷기, 뛰기, 앉기에 따라 크로스헤어가 변하고 크로스헤어에 따라 총의 정확도가 변화
+    + 정조준 시 크로스헤어가 사라지고 정확도가 가장 정확하게 구현
+    + 플레이어가 활동 할 수 있도록 기본적인 터레인 구현
+-----------------------------------------------------------------------------
+
++ Refernece
+  + https://www.youtube.com/playlist?list=PLUZ5gNInsv_Nzex8Cvxce_1zjUf0cNWY9
 
 
-출처: https://www.youtube.com/playlist?list=PLUZ5gNInsv_Nzex8Cvxce_1zjUf0cNWY9
+
